@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.user_data{
+    background-color: rgb(200, 196, 196);
+    color: black;
+    width: auto;
+    height: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    flex-direction: column;
+    text-align: center;
+   
+}
+.style{
+    justify-content: center;
+}
+  
+
+
